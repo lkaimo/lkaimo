@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lkaimo
 - 👀 I’m interested in Web Development, Game Development, API and AI
-- 🌱 I’m currently learning Javascript frameworks
+- 🌱 I’m currently exploring Javascript frameworks and libraries
 - 📫 kaimosalalima@gmail.com
 
 <!---
