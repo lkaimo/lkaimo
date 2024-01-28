@@ -8,7 +8,7 @@ Hey there! 👋 I'm Kai, a passionate tech explorer with a heart that beats in J
 
 🌟 Let's code the future together! Join me on this exciting journey of endless possibilities, where the love for learning fuels innovation. 💻✨ #CodeExplorer #TechEnthusiast 🚀
 
-- 📫 kaimosalalima@gmail.com
+📫 kaimosalalima@gmail.com
 
 <!---
 lkaimo/lkaimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
